@@ -13,8 +13,8 @@ jobs:
       - name: Comprobar que no se modifican las clases protegidas
         run: |
           CAMBIOS=$(git diff --name-only origin/${{ github.base_ref }}...HEAD -- \
-            src/com/virreymorcillo/zoo/model/Animal.java \
-            src/com/virreymorcillo/zoo/model/Pet.java \
+            src/modelo/Vehiculo.java \
+            src/modelo/Reparable.java \
             .github/CODEOWNERS \
             .github/workflows/)
           if [ -n "$CAMBIOS" ]; then

@@ -1,5 +1,5 @@
 # Clases protegidas: solo el Alejandro  puede aprobar cambios
-/src/com/virreymorcillo/zoo/model/Animal.java   @ccnl10
-/src/com/virreymorcillo/zoo/model/Pet.java   @ccnl10
+/src/modelo/Vehiculo.java   @AlejandroMoralesMadrigal77
+/src/modelo/Reparable.java   @AlejandroMoralesMadrigal77
 /.github/CODEOWNERS   @AlejandroMoralesMadrigal77
 /.github/workflows/   @AlejandroMoralesMadrigal77

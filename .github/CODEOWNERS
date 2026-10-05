@@ -1,5 +1,5 @@
 # Clases protegidas: solo el Alejandro  puede aprobar cambios
-/src/Modelo/Vehiculo.java   @ccnl10
-/src/Modelo/Reparable.java   @ccnl10
-/.github/CODEOWNERS   @ccnl10
-/.github/workflows/   @ccnl10
+/src/Modelo/Vehiculo.java   @AlejandroMoralesMadrigal77
+/src/Modelo/Reparable.java   @AlejandroMoralesMadrigal77
+/.github/CODEOWNERS   @AlejandroMoralesMadrigal77
+/.github/workflows/   @AlejandroMoralesMadrigal77
